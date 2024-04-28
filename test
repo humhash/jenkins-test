@@ -1,5 +1,4 @@
 # second changes done
-# Add one more line
 const axios = require('axios');
 
 const url = 'http://your-jenkins-url/github-webhook/';
